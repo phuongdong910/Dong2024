@@ -42,6 +42,7 @@ public class SinhVienDAOImpl implements SinhVienDAO {
         return query.getResultList();
     }
 
+
     @Override
     public List<SinhVien> getAll() {
         String jpql = "SELECT s FROM SinhVien s";
