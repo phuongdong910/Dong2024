@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "code": "PROD-0001",
+      "name": "Paracetamol",
+      "description": "Thuốc giảm đau, hạ sốt",
+      "category": "Giảm đau",
+      "price": 5000,
+      "quantity": 100,
+      "dateAdded": "25/12/2024"
+    },
+    {
+      "id": "1f7d",
+      "code": "PROD-0002",
+      "name": "tăng ký",
+      "description": "mỗi ngày tăng 1 kg",
+      "category": "Kháng sinh",
+      "price": "10000",
+      "quantity": "99",
+      "importDate": "2024-12-25"
+    },
+    {
+      "id": "eede",
+      "code": "PROD-0003",
+      "name": "Thuốc xỉu",
+      "description": "Uống vô xỉu",
+      "category": "Giảm đau",
+      "price": "33333",
+      "quantity": "3",
+      "importDate": "2024-12-25"
+    },
+    {
+      "id": "70c2",
+      "code": "PROD-0005",
+      "name": "Thuốc chill",
+      "description": "Ún vô bao chill",
+      "category": "Kháng sinh",
+      "price": "3434",
+      "quantity": "343",
+      "importDate": "2024-12-26"
+    },
+    {
+      "id": "e59e",
+      "code": "PROD-0006",
+      "name": "Thuốc bao lành",
+      "description": "Ún vô hết bệnh",
+      "category": "Kháng sinh",
+      "price": "334334",
+      "quantity": "45.34",
+      "importDate": "2024-12-21"
+    },
+    {
+      "id": "9c71",
+      "code": "frere54",
+      "name": "454545",
+      "description": "5454545",
+      "category": "Giảm đau",
+      "price": "454545",
+      "quantity": "4545",
+      "importDate": "2024-12-24"
+    },
+    {
+      "id": "12a3",
+      "code": "PROD-0002",
+      "name": "Phương Đông",
+      "description": "fgfg",
+      "category": "Giảm đau",
+      "price": "456",
+      "quantity": "343434",
+      "importDate": "2024-12-24"
+    },
+    {
+      "id": "4635",
+      "code": "PROD-00044",
+      "name": "Phương Đông",
+      "description": "44trt",
+      "category": "Giảm đau",
+      "price": "20",
+      "quantity": "4",
+      "importDate": "2024-12-24"
+    },
+    {
+      "id": "51bc",
+      "code": "PROD-0002",
+      "name": "Phương Đông",
+      "description": "fdfdfdfdfd",
+      "category": "Giảm đau",
+      "price": "5",
+      "quantity": "3",
+      "importDate": "2024-12-24"
+    },
+    {
+      "id": "53a4",
+      "code": "PROD-0005",
+      "name": "thuốc gì đây",
+      "description": "thuốc chống muỗi",
+      "category": "Kháng sinh",
+      "price": "343434",
+      "quantity": "3",
+      "importDate": "2024-12-27"
+    },
+    {
+      "id": "8504",
+      "code": "PROD-0002",
+      "name": "Phương Đông",
+      "description": "thuốc bao mơisssssssssssssss",
+      "category": "Giảm đau",
+      "price": "343",
+      "quantity": "434",
+      "importDate": "2024-12-23"
+    },
+    {
+      "id": "c2a6",
+      "code": "PROD-0015",
+      "name": "aaaaaaaaaaaaaaaaaa",
+      "description": "aaaaaaaaaaaaaaaa",
+      "category": "Giảm đau",
+      "price": "34334",
+      "quantity": "343",
+      "importDate": "2024-12-22"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Giảm đau",
+      "description": "Thuốc giảm đau"
+    },
+    {
+      "id": "2",
+      "name": "Kháng sinh",
+      "description": "Thuốc kháng sinh"
+    }
+  ]
+}
